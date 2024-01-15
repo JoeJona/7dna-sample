@@ -1,5 +1,5 @@
 First Download the file and then install xamp, wamp or any other server
-After downloading the file extract and the file into htdocs in the server folder created when installed
+After downloading the file extract and add the file into htdocs in the server folder created when installed
 
 
 ![htdocs](https://github.com/JoeJona/7dna-sample/assets/80669589/2231b237-9a86-4adb-9a99-1e5e303f4f88)
